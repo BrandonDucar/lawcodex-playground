@@ -9,3 +9,6 @@ output.log
 error.log
 
 core
+
+# Local Netlify folder
+.netlify
