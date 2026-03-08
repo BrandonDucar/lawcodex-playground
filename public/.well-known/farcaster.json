@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "DreamNet Law Codex",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_0d586e7f-8eb7-4cbd-9259-60ef2727c01f-zcSkzRULVlliVM1wDfTW0byV4dCydD",
+    "homeUrl": "https://earth-paint-285.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_0d586e7f-8eb7-4cbd-9259-60ef2727c01f-zcSkzRULVlliVM1wDfTW0byV4dCydD",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "DreamNet Law Codex",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_0d586e7f-8eb7-4cbd-9259-60ef2727c01f-zcSkzRULVlliVM1wDfTW0byV4dCydD"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjE0NzcxNDIsInR5cGUiOiJhdXRoIiwia2V5IjoiMHg3RDc5RTkwMjQ4MjQ2OWRBNjQ5NzdkMkIwOTc3MTIwQzc3MDI5NTkzIn0",
+    "payload": "eyJkb21haW4iOiJlYXJ0aC1wYWludC0yODUuYXBwLm9oYXJhLmFpIn0",
+    "signature": "7OKg8gOaSoBt2rzFbFqfG9zL63UVlIa3ETTPmr2Y61lTZhUdPZNBJPVsF0noCbFoARaBW2wW2THFKvhlamYfyhw="
+  }
+}
